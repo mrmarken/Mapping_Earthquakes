@@ -6,7 +6,7 @@ __pycache__/
 # Ignore local files for planning purposes
 Notes/**
 mod13_notes.ipynb
-
+config.js
 
 # C extensions
 *.so
