@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Ignore local files for planning purposes
+# Ignore local files
 Notes/**
 mod13_notes.ipynb
 config.js
